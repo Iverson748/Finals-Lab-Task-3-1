@@ -41,7 +41,8 @@ Table Structure
 
 ## Task 5: Sort courses by students_enrolled in ascending order.
 Query  Statements
-![5state](https://github.com/user-attachments/assets/823cb772-f0cf-41f8-b4a0-1dbf69ad0752)
+![task5fn](https://github.com/user-attachments/assets/69f33a26-a8ea-40d5-9bd6-6a9eb730b47a)
+
 
 Table Structure
 ![task5table](https://github.com/user-attachments/assets/cb130062-311a-41ed-a76a-60bff9c8b276)
