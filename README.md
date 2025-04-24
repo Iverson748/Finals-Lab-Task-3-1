@@ -14,7 +14,7 @@ students_enrolled: Integer, not null.
 20 courses are already present.
 The following are the tasks that need to be implemented using MySQL statements. Make sure to complete them in the order specified:
 ## Task 1: Retrieve all courses where students_enrolled is less than the enrollment_limit.
-## Query  Statements
+ Query  Statements
 ![Screenshot 2025-04-24 2012071STATEMENT](https://github.com/user-attachments/assets/e8e7ab3c-cf24-4422-b1ae-462a3cdcad88)
 ## Table Structure
 ![Screenshot 2025-04-24 2012451TABLE](https://github.com/user-attachments/assets/a7ae783a-0f86-42ec-a2b9-97cb8e8dd703)
@@ -27,10 +27,17 @@ Table Structure
 Query  Statements
 ![Screenshot 2025-04-24 2018253STATE](https://github.com/user-attachments/assets/5122b225-628b-43b4-9ccb-e160d07ea0d3)
 Table Structure
-https://1drv.ms/f/c/3590a2dfcf97e27b/Envil8_fopAggDVqAAAAAAABgTj8ikSFpZCnmvmfmr81Cg?e=xEhDaE
+![table3](https://github.com/user-attachments/assets/2bf1ebec-550d-44ee-ba63-a7a2e88246e2)
+
 ## Task 4: Calculate the total number of students enrolled across all courses.
 Query  Statements
+![4taskstate](https://github.com/user-attachments/assets/f1dde938-680c-4b1c-b2e2-ff36bb97d314)
 Table Structure
+![tabletask4](https://github.com/user-attachments/assets/394430d4-87a4-4efa-8c56-48c7ebe26012)
+
 ## Task 5: Sort courses by students_enrolled in ascending order.
 Query  Statements
+![5state](https://github.com/user-attachments/assets/823cb772-f0cf-41f8-b4a0-1dbf69ad0752)
 Table Structure
+![task5table](https://github.com/user-attachments/assets/cb130062-311a-41ed-a76a-60bff9c8b276)
+
